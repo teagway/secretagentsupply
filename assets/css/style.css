@@ -149,3 +149,14 @@ html {
 /* @END SECTION COMPANY */
 
 /* FOOTER */
+footer {
+  background-color: black;
+  height: 5rem;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.copyright {
+  width: 960px;
+}
