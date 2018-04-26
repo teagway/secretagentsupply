@@ -1,3 +1,38 @@
 /*
 PROJECT: SECRET AGENT SUPPLY
 */
+
+html {
+  font-family: Helvetica !important;
+  font-size: 18px !important;
+  color: white !important;
+}
+
+/* HEADER */
+.head-top {
+  background: black;
+}
+
+.logo {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 1.5rem;
+  margin: 0 1rem 0 0.5rem;
+}
+
+.logo h3 {
+  font-size: 1rem;
+  margin: 0.66rem 0;
+  text-transform: uppercase;
+}
+
+.head-mid {
+  background: url('../img/moto.jpeg') center center no-repeat;
+  background-size: cover;
+  height: 25rem;
+}
