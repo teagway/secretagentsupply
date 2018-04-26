@@ -125,3 +125,27 @@ html {
 /* @END SECTION PRODUCTS */
 
 /* SECTION COMPANY */
+#company {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.company {
+  width: 35%;
+  margin-bottom: 4rem;
+}
+
+.company h3 {
+  padding: 1rem 2rem;
+  background-color: black;
+  text-align: left;
+}
+
+.company p {
+  color: black;
+}
+/* @END SECTION COMPANY */
+
+/* FOOTER */
