@@ -262,6 +262,7 @@ footer {
   #company {
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 5rem;
   }
 
   .company {
